@@ -3,7 +3,13 @@
 * {
  font-family: "Playfair Display";
  font-size: 1.1em;
+ color: #222222;
 }
+
+html {
+  background: url("./scribble_light.png")
+}
+
 h1 {
   font-size: 1.9em;
 }
